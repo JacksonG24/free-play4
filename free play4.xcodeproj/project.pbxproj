@@ -16,6 +16,7 @@
 		0A849E242ADE3E610033BD83 /* Antmation curves.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A849E232ADE3E610033BD83 /* Antmation curves.swift */; };
 		0A849E262ADE3E740033BD83 /* transistion.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A849E252ADE3E740033BD83 /* transistion.swift */; };
 		0A849E282ADE3E820033BD83 /* nav link and view.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A849E272ADE3E810033BD83 /* nav link and view.swift */; };
+		0A849E2A2ADE5C050033BD83 /* FreePlay4.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A849E292ADE5C050033BD83 /* FreePlay4.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,7 @@
 		0A849E232ADE3E610033BD83 /* Antmation curves.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Antmation curves.swift"; sourceTree = "<group>"; };
 		0A849E252ADE3E740033BD83 /* transistion.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = transistion.swift; sourceTree = "<group>"; };
 		0A849E272ADE3E810033BD83 /* nav link and view.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "nav link and view.swift"; sourceTree = "<group>"; };
+		0A849E292ADE5C050033BD83 /* FreePlay4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FreePlay4.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,6 +70,7 @@
 				0A849E232ADE3E610033BD83 /* Antmation curves.swift */,
 				0A849E252ADE3E740033BD83 /* transistion.swift */,
 				0A849E272ADE3E810033BD83 /* nav link and view.swift */,
+				0A849E292ADE5C050033BD83 /* FreePlay4.swift */,
 				0A849E152ADE3E0F0033BD83 /* Assets.xcassets */,
 				0A849E172ADE3E0F0033BD83 /* Preview Content */,
 			);
@@ -158,6 +161,7 @@
 				0A849E122ADE3E0D0033BD83 /* free_play4App.swift in Sources */,
 				0A849E222ADE3E470033BD83 /* Animation.swift in Sources */,
 				0A849E262ADE3E740033BD83 /* transistion.swift in Sources */,
+				0A849E2A2ADE5C050033BD83 /* FreePlay4.swift in Sources */,
 				0A849E202ADE3E370033BD83 /* Ternary Operators.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
