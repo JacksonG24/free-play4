@@ -23,6 +23,10 @@ struct Animation: View {
                 .frame(
                     width: isAnimated ? 100 : 300,
                     height: isAnimated ? 100 : 300)
+                .rotationEffect(Angle(degrees: isAnimated ? 720 : 0))
+                .offset(y: isAnimated ? 300 : 0 )
+                
+            
             Spacer()
         }
     }
